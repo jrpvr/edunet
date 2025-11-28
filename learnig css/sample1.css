@@ -1,0 +1,18 @@
+        .button
+        {
+            background-color: rgb(0, 0, 0);
+           color: aliceblue;
+           height: 70px;
+           width: 90px;
+        }
+        .button:hover{
+             background-color: rgb(255, 255, 255);
+           color: rgb(246, 37, 9);
+        transform: translate(40px,80px)
+        
+        }
+         .yesbutton:hover{
+             background-color: rgb(255, 170, 199);
+           color: rgb(221, 230, 231);
+        transform: scale(170px 190px)
+         }
